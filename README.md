@@ -56,7 +56,15 @@ python bdg2_dl.py
 python mambaformer_dino_vision.py
 ```
 
+## Acknowledgements
 
+The repository is based on https://github.com/NatLabRockies/BuildingsBench and https://github.com/d2i-group/awesome-vision-time-series projects.
+
+
+
+## License
+
+The repository is licensed under the [Apache 2.0 license](LICENSE).
 
 ## Contact Us
 
